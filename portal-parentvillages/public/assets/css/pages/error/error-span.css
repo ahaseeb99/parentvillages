@@ -1,0 +1,9 @@
+.text_danger {
+    font-size: 13px !important;
+    color: red;
+    font-weight: 600; }
+  
+  /* @media (min-width: 768px) {
+    .text_danger {
+      font-size: 10.7rem !important; } } */
+  
